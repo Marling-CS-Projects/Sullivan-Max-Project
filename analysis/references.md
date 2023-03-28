@@ -15,3 +15,5 @@ Clement, J. (2022). _Top video game genres worldwide by age 2020_. \[online] Sta
 Clement, J. (2021). _U.S. average age of video gamers 2019_. \[online] Statista. Available at: https://www.statista.com/statistics/189582/age-of-us-video-game-players/ \[Accessed 28 Mar. 2023].
 
 Yanev, V. (2019). _Video Game Demographis - 25 Powerful Stats for 2020_. \[online] TechJury. Available at: https://techjury.net/blog/video-game-demographics/#gref \[Accessed 28 Mar. 2023].
+
+Dsouza, R. (2021). _Why do gamers game? | YouGov_. \[online] yougov.co.uk. Available at: https://yougov.co.uk/topics/technology/articles-reports/2021/11/24/why-do-gamers-game \[Accessed 28 Mar. 2023].
