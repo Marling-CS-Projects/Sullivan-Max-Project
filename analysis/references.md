@@ -10,6 +10,8 @@ Pallavicini, F., Pepe, A. and Mantovani, F. (2022). The Effects of Playing Video
 
 GOV.UK. (2021). _Wellbeing and Loneliness - Community Life Survey 2020/21_. \[online] Available at: https://www.gov.uk/government/statistics/community-life-survey-202021-wellbeing-and-loneliness/wellbeing-and-loneliness-community-life-survey-202021 \[Accessed 31 Mar. 2023].
 
+Wiederhold, B.K. (2021). Kids Will Find a Way: The Benefits of Social Video Games. _Cyberpsychology, Behavior, and Social Networking_, \[online] 24(4). doi:https://doi.org/10.1089/cyber.2021.29211.editorial.
+
 Osborn, G. (2022). _UK Consumer Games Market Valuation 2021 – how much money did people in the UK spend on video games?_ \[online] ukie.org.uk. Available at: [https://ukie.org.uk/consumer-games-market-valuation-2021](https://ukie.org.uk/consumer-games-market-valuation-2021) \[Accessed 22 Mar. 2023].
 
 Clement, J. (2022). _Top video game genres worldwide by age 2020_. \[online] Statista. Available at: [https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/](https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/) \[Accessed 27 Mar. 2023].
