@@ -24,7 +24,7 @@ Clement, J. (2021a). _Online gaming among children by age UK 2017-2019_. \[onlin
 
 Dsouza, R. (2021). _Why do gamers game? | YouGov_. \[online] yougov.co.uk. Available at: [https://yougov.co.uk/topics/technology/articles-reports/2021/11/24/why-do-gamers-game ](https://yougov.co.uk/topics/technology/articles-reports/2021/11/24/why-do-gamers-game)\[Accessed 28 Mar. 2023].
 
-Oberlo (2023). _Most Popular Web Browsers in 2021 \[Jul ’21 Update] | Oberlo_. \[online] www.oberlo.com. Available at: [https://www.oberlo.com/statistics/browser-market-share.](https://www.oberlo.com/statistics/browser-market-share.)
+Oberlo (2023). _Most Popular Web Browsers in 2021 \[Jul ’21 Update] | Oberlo_. \[online] www.oberlo.com. Available at: [https://www.oberlo.com/statistics/browser-market-share.](https://www.oberlo.com/statistics/browser-market-share)
 
 Visual Studio Code (2023). _Requirements for Visual Studio Code_. \[online] code.visualstudio.com. Available at: [https://code.visualstudio.com/docs/supporting/requirements.](https://code.visualstudio.com/docs/supporting/requirements)
 
