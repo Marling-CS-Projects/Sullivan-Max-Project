@@ -28,3 +28,17 @@ Visual Studio Code (2023). _Requirements for Visual Studio Code_. \[online] code
 
 Cloud 66 (n.d.). _Recommended minimum server sizes_. \[online] help.cloud66.com. Available at: [https://help.cloud66.com/docs/servers/non-recommended-server-sizes.](https://help.cloud66.com/docs/servers/non-recommended-server-sizes)
 
+Safari (n.d.). _SM-Live! System Requirements_. \[online] www.safarimontage.com. Available at: [https://www.safarimontage.com/support/sml\_sysreqs.aspx](https://www.safarimontage.com/support/sml\_sysreqs.aspx) \[Accessed 18 May 2023].
+
+Apple (2009). _Safari 4 for Mac - Technical Specifications_. \[online] support.apple.com. Available at: [https://support.apple.com/kb/sp552?locale=en\_GB.](https://support.apple.com/kb/sp552?locale=en\_GB.)
+
+Google (2023a). _Chrome browser system requirements - Chrome Enterprise and Education Help_. \[online] support.google.com. Available at: [https://support.google.com/chrome/a/answer/7100626?hl=en#:\~:text=Windows.](https://support.google.com/chrome/a/answer/7100626?hl=en)
+
+Google (2023b). _Prepare for installation - ChromeOS Flex Help_. \[online] support.google.com. Available at: [https://support.google.com/chromeosflex/answer/11552529?hl=en.](https://support.google.com/chromeosflex/answer/11552529?hl=en.)
+
+AZCentral (2019). _Does Google Chrome Take Up a Lot of Room?_ \[online] Your Business. Available at:[ https://yourbusiness.azcentral.com/google-chrome-up-lot-room-20708.html.](https://yourbusiness.azcentral.com/google-chrome-up-lot-room-20708.html.)
+
+Firefox (2023). _Firefox 113.0.1 System Requirements_. \[online] Mozilla. Available at: [https://www.mozilla.org/en-US/firefox/113.0.1/system-requirements/.](https://www.mozilla.org/en-US/firefox/113.0.1/system-requirements/)
+
+
+
