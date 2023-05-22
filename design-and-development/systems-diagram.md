@@ -12,16 +12,17 @@ Usability is an important aspect to my game as I want it to be accessible to all
 
 ### Effective
 
-Users can achieve the goal with completeness and accuracy. To do this, I will make it easy for the players to realise that they need to reach a goal in order to complete a level. I will make this goal clear to see so there is no confusion over where the players need to go.
+Users can achieve the goal with completeness and accuracy. To do this, I will make it easy for the players to realise that they need to reach a goal in order to complete a level. I will make this goal clear to see so there is no confusion over where the players need to go.&#x20;
 
 #### Aims
 
-* Create a clear goal to reach to determine the end of a level
-* Create a clear goal for any multiplayer modes
+* Create a clear goal to reach to determine the end of a game
+* Create a clear goal for multiplayer&#x20;
+* Create a clear goal for puzzles and minigames
 
 ### Efficiency
 
-The speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks.
+The speed and accuracy to which a user can complete the goal. To do this, I will create a menu system which is easy to navigate through in order for to find what you are looking for. The information which is more important can be found with less clicks. The mock in [1.4a](../analysis/1.4a-features-of-the-proposed-solution.md#user-interface) shows that on the opening screen there will be 3 tabs for the players to click.
 
 #### Aims
 
@@ -34,8 +35,8 @@ The solution is engaging for the user to use. To do this, I will create 5 levels
 
 #### Aims
 
-* Create a series of levels to work through
 * Create a multiplayer mode to play
+* Create puzzles and minigames to play
 * Incorporate a style of game art the suits the game
 
 ### Error Tolerant
