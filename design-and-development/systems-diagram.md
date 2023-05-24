@@ -31,7 +31,7 @@ The speed and accuracy to which a user can complete the goal. To do this, I will
 
 ### Engaging
 
-The solution is engaging for the user to use. To do this, I will create 5 levels and an online multiplayer mode to keep the players engaged and allow them to have fun while playing the game. Using vector style art will also make the game nicer to look at than blocks, so will draw more people in, keeping them engaged.
+The solution is engaging for the user to use. To do this, I will create an engaging world and multiplayer to keep the players engaged and allow them to have fun while playing the game. Using pixel style art will also make the game nicer to look at, so will draw more people in, keeping them engaged.
 
 #### Aims
 

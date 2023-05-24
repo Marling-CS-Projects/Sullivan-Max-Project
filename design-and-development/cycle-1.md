@@ -12,11 +12,15 @@ In this first cycle, I want to set up the database I will be using to be able to
 
 ### Usability Features
 
+The player needs to be able to create an account [effectively](systems-diagram.md#effective) and [efficiently](systems-diagram.md#efficiency), and be able to know and then meet the requirements.&#x20;
+
 ### Key Variables
 
-| Variable Name | Use                   |
-| ------------- | --------------------- |
-| foo           | does something useful |
+| Variable Name | Use                                           |
+| ------------- | --------------------------------------------- |
+| users         | Stores both the name and password being input |
+| name          | The desired username                          |
+| password      | The desired password                          |
 
 ### Pseudocode
 
