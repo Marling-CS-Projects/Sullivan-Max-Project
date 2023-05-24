@@ -2,12 +2,13 @@
 
 ## Design
 
+In this first cycle, I want to set up the database I will be using to be able to store the data about the people who play my game. I will need to have a database that can store the usernames and passwords of the accounts of my players, and should be able to add new accounts to it. The usernames should always be unique to others in the database, and both the username and password need to have an input.&#x20;
+
 ### Objectives
 
-\[describe the cycle]
-
-* [x] Do a thing
-* [x] Do another thing
+* [x] Create the database
+* [x] Create username and password fields
+* [ ] Be able to make changes to the database
 
 ### Usability Features
 
