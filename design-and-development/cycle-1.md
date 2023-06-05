@@ -71,6 +71,8 @@ else
 
 ### Outcome
 
+At the end of this first cycle, I have a database that I can use to create accounts for my game, and allow users to have their own username and password. The database also ensures usernames are unique, and allows me to query the data, finding the rows it is on and also safely close the connection.
+
 ### Challenges
 
 A challenge was definitely trying to get used to sql as a language and the syntax involved. This presented me with the challenge of trying to know what language to use when trying to have the code do as I want. Although generally this wasn't too much of an issue, it did make debugging and trying to find errors in my code a lot harder.
