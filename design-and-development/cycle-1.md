@@ -9,6 +9,7 @@ In this first cycle, I want to set up the database I will be using to be able to
 * [x] Create the database
 * [x] Create username and password fields
 * [ ] Be able to make changes to the database
+* [ ] Have it ready to be implemented for use in my game
 
 ### Usability Features
 
@@ -82,6 +83,6 @@ A challenge was definitely trying to get used to sql as a language and the synta
 | 2    | Run with adding a user included                                               | Create table and add user with message of success or failure                                                                                       | Error displayed as it failed to input username and password | Fail      |
 | 3    | Run and be able to select information about data that has been input          | To be able to select data from users                                                                                                               | As expected                                                 | Pass      |
 | 4    | Run and then being able to close the database when finished with it           | A message after displaying that the database connection is closed                                                                                  | As expected                                                 | Pass      |
-| 5    | Run and be able to input multiple new values for users through a new function | To be able to input a value for username and password, it be checked if there is an input and if username is unique and then it be in the database | Error displayed                                             | Fail      |
+| 5    | Run and be able to input multiple new values for users through a new function | To be able to input a value for username and password, it be checked if there is an input and if username is unique and then it be in the database | Error displayed due to syntax error                         | Fail      |
 
 ### Evidence
