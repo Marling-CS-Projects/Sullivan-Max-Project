@@ -13,7 +13,7 @@ In this first cycle, I want to set up the database I will be using to be able to
 
 ### Usability Features
 
-The player needs to be able to create an account [effectively](systems-diagram.md#effective) and [efficiently](systems-diagram.md#efficiency), and be able to know and then meet the requirements. The player should know firstly that they have to make an account, and then that if there entry doesn't meet the requirements, why this is.
+The player needs to be able to create an account [effectively](systems-diagram.md#effective) and [efficiently](systems-diagram.md#efficiency), and be able to know and then meet the requirements. The player should know firstly that they have to make an account, and then that if their entry doesn't meet the requirements, why this is.
 
 ### Key Variables
 
