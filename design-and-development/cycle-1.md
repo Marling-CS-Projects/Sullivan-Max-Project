@@ -8,8 +8,8 @@ In this first cycle, I want to set up the database I will be using to be able to
 
 * [x] Create the database
 * [x] Create username and password fields
-* [ ] Be able to make changes to the database
-* [ ] Have it ready to be implemented for use in my game
+* [x] Be able to make changes to the database
+* [x] Have it ready to be implemented for use in my game
 
 ### Usability Features
 
@@ -72,6 +72,83 @@ else
 ### Outcome
 
 At the end of this first cycle, I have a database that I can use to create accounts for my game, and allow users to have their own username and password. The database also ensures usernames are unique, and allows me to query the data, finding the rows it is on and also safely close the connection.
+
+
+
+```
+const sqlite3 = require("sqlite3").verbose();
+
+const db = new sqlite3.Database("Database.db");    //Creating a database named Database
+
+function Register(user, callback) {           //A function to register the user
+  db.get(`SELECT * FROM users WHERE name = "${user.name}"`, (err, row) => { 
+    if (err) {
+      callback("sqlerr");
+      return;
+    } else if (row) {
+      callback("User already exists");
+      return;
+    }
+    db.run(
+      `INSERT INTO users (name, password) VALUES ("${user.name}", "${user.password}")`,
+      function (err) {
+        if (err) {
+          callback("sqlerr");
+          return;
+        }
+        callback(false);
+      }
+    );
+  });
+}
+
+db.serialize(() => {
+  db.run(
+    `CREATE TABLE IF NOT EXISTS users (
+        id INTEGER PRIMARY KEY AUTOINCREMENT,
+        name TEXT NOT NULL UNIQUE,
+        password TEXT NOT NULL
+    )`,
+    (err) => {                                               // Creating the database
+      if (err) {
+        console.error(err.message);
+      } else {
+        console.log(`Table created or already exists.`);
+        
+          
+          const user = { name: `Max`, password: `password` };     // Inputting values
+        Register(user, function (err, registrationStatus) {
+          if (err) {
+            console.log("Registration failed:", err);
+          } else {
+            if (registrationStatus === false) {
+              console.log("Registration succeeded");
+            } 
+          }
+        });
+
+        db.all(`SELECT * FROM users`, [], (err, rows) => {        // To query the data
+          if (err) {
+            console.error(err.message);
+          } else {
+            rows.forEach((row) => {
+              console.log(row.id, row.name);
+            });
+          }
+        });
+
+        db.close((err) => {                   // Closing the database connection
+          if (err) {
+            console.error(err.message);
+          } else {
+            console.log(`Database connection closed.`);
+          }
+        });
+      }
+    }
+  );
+});
+```
 
 ### Challenges
 
