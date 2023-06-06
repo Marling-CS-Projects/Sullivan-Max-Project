@@ -1,4 +1,4 @@
-# 2.2.1 Cycle 1
+# 2.2.1 Cycle 1: Database
 
 ## Design
 
@@ -71,17 +71,15 @@ else
 
 ### Outcome
 
-At the end of this first cycle, I have a database that I can use to create accounts for my game, and allow users to have their own username and password. The database also ensures usernames are unique, and allows me to query the data, finding the rows it is on and also safely close the connection.
+At the end of this first cycle, I have a database that I can use to create accounts for my game, and allow users to have their own username and password. The database also ensures usernames are unique, and allows me to query the data, finding the rows it is on and also safely close the connection. &#x20;
 
-
-
-```
+```javascript
 const sqlite3 = require("sqlite3").verbose();
 
 const db = new sqlite3.Database("Database.db");    //Creating a database named Database
 
-function Register(user, callback) {           //A function to register the user
-  db.get(`SELECT * FROM users WHERE name = "${user.name}"`, (err, row) => { 
+function Register(user, callback) {
+  db.get(`SELECT * FROM users WHERE name = "${user.name}"`, (err, row) => {
     if (err) {
       callback("sqlerr");
       return;
@@ -121,13 +119,12 @@ db.serialize(() => {
           if (err) {
             console.log("Registration failed:", err);
           } else {
-            if (registrationStatus === false) {
               console.log("Registration succeeded");
             } 
           }
-        });
+        );
 
-        db.all(`SELECT * FROM users`, [], (err, rows) => {        // To query the data
+        db.all(`SELECT * FROM users`, [], (err, rows) => {          // To query the data
           if (err) {
             console.error(err.message);
           } else {
@@ -137,7 +134,7 @@ db.serialize(() => {
           }
         });
 
-        db.close((err) => {                   // Closing the database connection
+        db.close((err) => {                   // Closing the database
           if (err) {
             console.error(err.message);
           } else {
