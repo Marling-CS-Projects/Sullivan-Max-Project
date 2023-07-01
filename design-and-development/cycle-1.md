@@ -162,3 +162,5 @@ A challenge was definitely trying to get used to sql as a language and the synta
 | 5    | Run and be able to input multiple new values for users through a new function | To be able to input a value for username and password, it be checked if there is an input and if username is unique and then it be in the database | Error displayed due to syntax error                         | Fail      |
 
 ### Evidence
+
+[https://youtu.be/ugBxMsOEy5o](https://youtu.be/ugBxMsOEy5o)
