@@ -20,7 +20,7 @@
 * [2.2.2 Cycle 2: Login and Register System](design-and-development/2.2.2-cycle-2-login-and-register-system.md)
 * [2.2.3 Cycle 3: Setup](design-and-development/2.2.3-cycle-3-setup.md)
 * [2.2.4 Cycle 4: Further development for the first path](design-and-development/2.2.4-cycle-4-further-development-for-the-first-path.md)
-* [2.2.4 Cycle 4](design-and-development/2.2.4-cycle-4.md)
+* [2.2.4.b Cycle 4b: Continuing with Cycle 4](design-and-development/2.2.4.b-cycle-4b-continuing-with-cycle-4.md)
 * [2.2.5 Finishing the map (completing the second path)](design-and-development/2.2.5-finishing-the-map-completing-the-second-path.md)
 * [2.2.6 Cycle 6: Minigames](design-and-development/2.2.6-cycle-6-minigames.md)
 
