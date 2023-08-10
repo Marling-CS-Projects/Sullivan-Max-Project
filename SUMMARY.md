@@ -22,6 +22,7 @@
 * [2.2.4 Cycle 4: Further development for the first path](design-and-development/2.2.4-cycle-4-further-development-for-the-first-path.md)
 * [2.2.4.b Cycle 4b: Continuing with 2nd half of Cycle 4](design-and-development/2.2.4.b-cycle-4b-continuing-with-2nd-half-of-cycle-4.md)
 * [2.2.5 Finishing the map (completing the second path)](design-and-development/2.2.5-finishing-the-map-completing-the-second-path.md)
+* [2.2.5.b Continuing with the second half of Cycle 5](design-and-development/2.2.5.b-continuing-with-the-second-half-of-cycle-5.md)
 * [2.2.6 Cycle 6: Minigames](design-and-development/2.2.6-cycle-6-minigames.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
