@@ -18,13 +18,14 @@
 * [2.1 Design Frame](design-and-development/systems-diagram.md)
 * [2.2.1 Cycle 1: Database](design-and-development/cycle-1.md)
 * [2.2.2 Cycle 2: Login and Register System](design-and-development/2.2.2-cycle-2-login-and-register-system.md)
-* [2.2.3 Cycle 3: Setup](design-and-development/2.2.3-cycle-3-setup.md)
+* [2.2.3 Cycle 3: Setup and the opening](design-and-development/2.2.3-cycle-3-setup-and-the-opening.md)
 * [2.2.4 Cycle 4: Further development for the first path](design-and-development/2.2.4-cycle-4-further-development-for-the-first-path.md)
 * [2.2.4.b Cycle 4b: Continuing with 2nd half of Cycle 4](design-and-development/2.2.4.b-cycle-4b-continuing-with-2nd-half-of-cycle-4.md)
 * [2.2.5 Finishing the map (completing the second path)](design-and-development/2.2.5-finishing-the-map-completing-the-second-path.md)
 * [2.2.5.b Cycle 5b: Continuing with the second half of Cycle 5](design-and-development/2.2.5.b-cycle-5b-continuing-with-the-second-half-of-cycle-5.md)
 * [2.2.6 Cycle 6: Minigames](design-and-development/2.2.6-cycle-6-minigames.md)
 * [2.2.6.b Cycle 6b: Creating the second minigame](design-and-development/2.2.6.b-cycle-6b-creating-the-second-minigame.md)
+* [2.2.7 Cycle 7: Adding Multiplayer](design-and-development/2.2.7-cycle-7-adding-multiplayer.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
