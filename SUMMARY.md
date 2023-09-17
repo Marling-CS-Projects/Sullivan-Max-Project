@@ -25,7 +25,11 @@
 * [2.2.5.b Cycle 5b: Continuing with the second half of Cycle 5](design-and-development/2.2.5.b-cycle-5b-continuing-with-the-second-half-of-cycle-5.md)
 * [2.2.6 Cycle 6: Minigames](design-and-development/2.2.6-cycle-6-minigames.md)
 * [2.2.6.b Cycle 6b: Creating the second minigame](design-and-development/2.2.6.b-cycle-6b-creating-the-second-minigame.md)
-* [2.2.7 Cycle 7: Adding Multiplayer](design-and-development/2.2.7-cycle-7-adding-multiplayer.md)
+* [2.2.7 Cycle 7: Adding the final level](design-and-development/2.2.7-cycle-7-adding-the-final-level.md)
+* [2.2.8 Cycle 8: Adding Characters (and change of plans)](design-and-development/2.2.8-cycle-8-adding-characters-and-change-of-plans.md)
+* [2.2.9 Cycle 9: Adding AI interference to the game](design-and-development/2.2.9-cycle-9-adding-ai-interference-to-the-game.md)
+* [2.2.10 Cycle 10: Adding a main menu](design-and-development/2.2.10-cycle-10-adding-a-main-menu.md)
+* [2.2.11 Cycle 11: Adding a timer](design-and-development/2.2.11-cycle-11-adding-a-timer.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
