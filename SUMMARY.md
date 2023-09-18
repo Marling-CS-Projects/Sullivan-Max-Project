@@ -30,6 +30,7 @@
 * [2.2.9 Cycle 9: Adding AI interference to the game](design-and-development/2.2.9-cycle-9-adding-ai-interference-to-the-game.md)
 * [2.2.10 Cycle 10: Adding a main menu](design-and-development/2.2.10-cycle-10-adding-a-main-menu.md)
 * [2.2.11 Cycle 11: Adding a timer](design-and-development/2.2.11-cycle-11-adding-a-timer.md)
+* [2.2.12 Cycle 12: Adding Music and elements of design](design-and-development/2.2.12-cycle-12-adding-music-and-elements-of-design.md)
 
 ## 3 Testing <a href="#testing" id="testing"></a>
 
