@@ -2,7 +2,7 @@
 
 Systems Diagram
 
-<figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (8) (1).png" alt=""><figcaption></figcaption></figure>
 
 This systems diagram shows the different aspects of my game. These aspects have come from my [success criteria](../analysis/1.5-success-criteria.md), and therefore it demonstrates what I want to achieve in my game. They have been broken down into smaller, sub-sections which are more manageable and combine together to finish the overall tasks at hand. These sub-sections are what I can go about aiming to achieve in my cycles, as they are smaller tasks and they will eventually lead to the finished project of my game. The dividing of these tasks is done with [computational methods](../analysis/1.4b-computational-methods.md) in mind, namely [decomposition](../analysis/1.4b-computational-methods.md#thinking-procedurally-and-decomposition).
 
