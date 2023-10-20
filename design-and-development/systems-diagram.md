@@ -55,8 +55,8 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 #### Aims
 
-* Create a list of controls for the game
-* Create an in-level guide that helps players learn how to play the game
+* Have easy to learn controls for the game
+* Create ways of helping the user to beat certain levels
 
 ## Pseudocode for the Game
 
