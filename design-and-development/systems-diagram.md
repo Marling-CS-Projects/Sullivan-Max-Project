@@ -16,7 +16,7 @@ Users can achieve the goal with completeness and accuracy. To do this, I will ma
 
 #### Aims
 
-* Create a clear goal to reach to determine the end of a game
+* Create a goal to reach to determine the end of a game
 * Create a clear goal for multiplayer&#x20;
 * Create a clear goal for puzzles and minigames
 * Create fair gameplay for all users
