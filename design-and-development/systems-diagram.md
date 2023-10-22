@@ -55,7 +55,7 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 #### Aims
 
-* Have easy to learn controls for the game
+* The game should not be too hard for all players to complete
 * Create ways of helping the user to beat certain levels
 
 ## Pseudocode for the Game
