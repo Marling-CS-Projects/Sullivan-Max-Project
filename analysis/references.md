@@ -1,5 +1,7 @@
 # References
 
+### 1.1
+
 Pallavincini, F., Ferrari, A. and Mantovani, F. (2018). _Video Games for Well-Being: A Systematic Review on the Application of Computer Games for Cognitive and Emotional Training in the Adult Population_. \[online] Frontiers. Available at: [https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02127/full](https://www.frontiersin.org/articles/10.3389/fpsyg.2018.02127/full) \[Accessed 22 Mar. 2023].
 
 O’Connor, E. (2022). _10 Advantages of Online Gaming | Gaming_. \[online] Telemedia Online. Available at: [https://www.telemediaonline.co.uk/10-advantages-of-online-gaming/](https://www.telemediaonline.co.uk/10-advantages-of-online-gaming/) \[Accessed 27 Mar. 2023].
@@ -16,6 +18,8 @@ Osborn, G. (2022). _UK Consumer Games Market Valuation 2021 – how much money d
 
 Clement, J. (2022). _Top video game genres worldwide by age 2020_. \[online] Statista. Available at: [https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/](https://www.statista.com/statistics/1263585/top-video-game-genres-worldwide-by-age/) \[Accessed 27 Mar. 2023].
 
+### 1.2
+
 Clement, J. (2021). _U.S. average age of video gamers 2019_. \[online] Statista. Available at: [https://www.statista.com/statistics/189582/age-of-us-video-game-players/](https://www.statista.com/statistics/189582/age-of-us-video-game-players/) \[Accessed 28 Mar. 2023].
 
 Yanev, V. (2019). _Video Game Demographis - 25 Powerful Stats for 2020_. \[online] TechJury. Available at: [https://techjury.net/blog/video-game-demographics/#gref](https://techjury.net/blog/video-game-demographics/#gref) \[Accessed 28 Mar. 2023].
@@ -25,6 +29,8 @@ Clement, J. (2021a). _Online gaming among children by age UK 2017-2019_. \[onlin
 Dsouza, R. (2021). _Why do gamers game? | YouGov_. \[online] yougov.co.uk. Available at: [https://yougov.co.uk/topics/technology/articles-reports/2021/11/24/why-do-gamers-game ](https://yougov.co.uk/topics/technology/articles-reports/2021/11/24/why-do-gamers-game)\[Accessed 28 Mar. 2023].
 
 Entertainment Software Association (2022). _2022 Essential Facts About the Video Game Industry_. \[online] Entertainment Software Association. Available at: [https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/.](https://www.theesa.com/resource/2022-essential-facts-about-the-video-game-industry/)
+
+### 1.6
 
 Oberlo (2023). _Most Popular Web Browsers in 2021 \[Jul ’21 Update] | Oberlo_. \[online] www.oberlo.com. Available at: [https://www.oberlo.com/statistics/browser-market-share.](https://www.oberlo.com/statistics/browser-market-share)
 
