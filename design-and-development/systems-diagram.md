@@ -60,45 +60,22 @@ The solution should be easy to use and not be over complicated. To do this, I wi
 
 ## Pseudocode for the Game
 
-### Pseudocode for game
-
-This is the basic layout of the object to store the details of the game. This will be what is rendered as it will inherit all important code for the scenes.
-
-```
-object Game
-    type: Phaser
-    parent: id of HTML element
-    width: width
-    height: height
-    physics: set up for physics
-    scenes: add all menus, levels and other scenes
-end object
-
-render Game to HTML web page
-```
-
 ### Pseudocode for a level
 
-This shows the basic layout of code for a Phaser scene. It shows where each task will be executed.
+This shows the basic layout of code for a scene. It shows where each task will be executed.
 
 ```
-class Level extends Phaser Scene
 
-    procedure preload
+ define scene
         load all sprites and music
-    end procedure
     
-    procedure create
         start music
         draw background
         create players
         create platforms
         create puzzle elements
-        create enemies
         create obstacles
-        create finishing position
         create key bindings
-    end procedure
     
     procedure update
         handle key presses
@@ -108,5 +85,5 @@ class Level extends Phaser Scene
         check if player at exit
     end procedure
     
-end class
+end scene
 ```
