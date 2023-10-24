@@ -70,20 +70,17 @@ This shows the basic layout of code for a scene. It shows where each task will b
         load all sprites and music
     
         start music
-        draw background
+        add background
         create players
         create platforms
         create puzzle elements
         create obstacles
-        create key bindings
+        add key bindings
     
-    procedure update
-        handle key presses
-        move player
-        move interactable objects
-        update animations
+        add object interaction
+        add new objects
+        update all animations
         check if player at exit
-    end procedure
-    
+        go new scene
 end scene
 ```
